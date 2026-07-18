@@ -1,5 +1,5 @@
-# ZeKang.github.io
+# ChenAi.github.io
 
 My personal website, hosted on GitHub Pages.
 
-🌐 **[zekang.github.io](https://zekang.github.io)**
+🌐 **[chenai.github.io](https://chenai.github.io)**
